@@ -1,7 +1,5 @@
 <p align=”center”>
-
 <img width=”200" height=”200" src=”"C:\Users\SYED MUZAMMIL\Downloads\Make your README.png"" alt=”my banner”>
-
 </p>
 
 <h1 align="center">Hi 👋, I'm Syed Muzammil</h1>
